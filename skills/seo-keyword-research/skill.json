@@ -1,11 +1,11 @@
 {
-    "name": "seo-keyword-research",
-    "version": "1.0.0",
-    "description": "Finds 3 long-tail keywords per run, estimates search volume and competition, logs to ~/.hermes/memory/sovereign-seo/keywords.md to compound over time.",
-    "author": "Sovereign Agentics",
-    "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
-    "hermes": { "minVersion": "0.8.0" },
-    "entrypoint": "skill.md",
-    "tags": ["seo", "keywords", "research"],
-    "license": "MIT"
+      "name": "seo-keyword-research",
+      "version": "1.0.0",
+      "description": "Finds 3 long-tail keywords per run, estimates search volume and competition, logs to ~/.hermes/memory/sovereign-seo/keywords.md to compound over time.",
+      "author": "Sovereign Agentics",
+      "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
+      "hermes": { "minVersion": "0.8.0" },
+      "entrypoint": "seo-keyword-research.md",
+      "tags": ["seo", "keywords", "research"],
+      "license": "MIT"
 }
