@@ -1,0 +1,11 @@
+{
+    "name": "seo-content-brief",
+    "version": "1.0.0",
+    "description": "Generates a full content brief for a target keyword: page title, meta description, H2 outline, competitor pages to beat, and one-time-payment pricing angle.",
+    "author": "Sovereign Agentics",
+    "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
+    "hermes": { "minVersion": "0.8.0" },
+    "entrypoint": "skill.md",
+    "tags": ["seo", "content", "brief", "copywriting"],
+    "license": "MIT"
+}
