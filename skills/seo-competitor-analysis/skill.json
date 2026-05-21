@@ -1,0 +1,11 @@
+{
+    "name": "seo-competitor-analysis",
+    "version": "1.0.0",
+    "description": "Analyzes the top 2-3 competitors ranking for a target keyword. Identifies content gaps, backlink opportunities, pricing weaknesses, and where Sovereign Agentics one-time-payment model wins.",
+    "author": "Sovereign Agentics",
+    "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
+    "hermes": { "minVersion": "0.8.0" },
+    "entrypoint": "skill.md",
+    "tags": ["seo", "competitor", "analysis", "research"],
+    "license": "MIT"
+}
