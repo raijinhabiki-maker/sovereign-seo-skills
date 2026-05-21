@@ -1,11 +1,11 @@
 {
-    "name": "seo-audit",
-    "version": "1.0.0",
-    "description": "Audits a Netlify page for on-page SEO issues: missing meta tags, H1 structure, schema markup, page speed signals, keyword density, and internal linking gaps.",
-    "author": "Sovereign Agentics",
-    "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
-    "hermes": { "minVersion": "0.8.0" },
-    "entrypoint": "skill.md",
-    "tags": ["seo", "audit", "technical", "on-page"],
-    "license": "MIT"
+      "name": "seo-audit",
+      "version": "1.0.0",
+      "description": "Audits a Netlify page for on-page SEO issues: missing meta tags, H1 structure, schema markup, page speed signals, keyword density, and internal linking gaps.",
+      "author": "Sovereign Agentics",
+      "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
+      "hermes": { "minVersion": "0.8.0" },
+      "entrypoint": "seo-audit.md",
+      "tags": ["seo", "audit", "technical", "on-page"],
+      "license": "MIT"
 }
