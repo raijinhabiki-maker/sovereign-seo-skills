@@ -1,11 +1,11 @@
 {
-    "name": "seo-page-builder",
-    "version": "1.0.0",
-    "description": "Builds complete SEO landing pages as HTML files deployed to Netlify. Includes eyebrow, H1, hero, CTA, comparison table, feature grid, FAQ, and JSON-LD schema.",
-    "author": "Sovereign Agentics",
-    "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
-    "hermes": { "minVersion": "0.8.0" },
-    "entrypoint": "skill.md",
-    "tags": ["seo", "landing-page", "netlify", "html"],
-    "license": "MIT"
+      "name": "seo-page-builder",
+      "version": "1.0.0",
+      "description": "Builds complete SEO landing pages as HTML files deployed to Netlify. Includes eyebrow, H1, hero, CTA, comparison table, feature grid, FAQ, and JSON-LD schema.",
+      "author": "Sovereign Agentics",
+      "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
+      "hermes": { "minVersion": "0.8.0" },
+      "entrypoint": "seo-page-builder.md",
+      "tags": ["seo", "landing-page", "netlify", "html"],
+      "license": "MIT"
 }
