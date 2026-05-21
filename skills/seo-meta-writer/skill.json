@@ -1,0 +1,11 @@
+{
+    "name": "seo-meta-writer",
+    "version": "1.0.0",
+    "description": "Writes optimized title tags, meta descriptions, Open Graph tags, and Twitter Card meta for any page. Validates character limits and keyword placement.",
+    "author": "Sovereign Agentics",
+    "homepage": "https://raijin24.gumroad.com/l/sovereign-seo",
+    "hermes": { "minVersion": "0.8.0" },
+    "entrypoint": "skill.md",
+    "tags": ["seo", "meta", "tags", "open-graph"],
+    "license": "MIT"
+}
